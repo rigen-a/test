@@ -1,0 +1,11 @@
+article p:first-child {
+    font-size: 200%;
+    font-weight: bold;
+    color: blueviolet;
+} 
+article p:second-child  { 
+  font-size: 150%;
+  font-weight: lighter;
+  
+  
+}
